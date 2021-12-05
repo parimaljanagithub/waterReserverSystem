@@ -1,0 +1,5 @@
+**/__pycache__
+src/static/uploaded_files/*
+src/site.db
+.vscode
+venv
