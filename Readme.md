@@ -20,7 +20,7 @@ python3 -m venv venv
 
 # Move to src directory and activate virtual environment
 
-cd src/venv/bin/activate
+cd src  
 
 # install required dependency specified in requirement.txt file
 
